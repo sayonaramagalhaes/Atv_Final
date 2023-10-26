@@ -1,0 +1,123 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+} 
+li{ 
+list-style: none; 
+display: inline; 
+margin-right: 40px;
+
+} 
+
+ 
+.cabecalho{ 
+    background-color: #BE89CB; 
+    height: 103px; 
+    width: 100%; 
+    display:flex; 
+    align-items: center;
+    justify-content: flex-end;
+} 
+
+.lista-menu li>a { 
+ color: #FFFFFF;
+ font-size: 18px; 
+ text-decoration: none; 
+} 
+.perfil{ 
+ background-color: #EDEAEA;
+ height: 579px; ; 
+ text-align: center;
+} 
+.minha-descricao{ 
+    font: size 14px; ; 
+    width: 490px; ; 
+    margin-left:auto ; 
+    margin-right:auto ;  
+    margin-top: 21px; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+img{ 
+ margin-top:  48px; ; 
+ margin-bottom: 26px;
+
+} 
+.profissao{ 
+ font: size 15px; ; 
+ color:#ff4dbc ;
+} 
+.meunome{ 
+
+    color:#ff4dbc
+}
+.container{ 
+  margin-left:auto ; 
+  margin-right:auto ; 
+  margin-top: 86px; 
+  max-width:  405px;    
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  
+  
+ 
+} 
+.artigo-formacao{ 
+ display: flex; 
+ flex-direction: column; 
+ margin-top: 100px; 
+ margin-bottom: 100px; 
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+.titulo-secao{ 
+ font-size: 24px; 
+ color: #ff4dbc; 
+ margin-bottom: 50px;
+
+} 
+.lista-formacao{ 
+ padding-left: 32px;
+}  
+.titulo-formacao{ 
+   
+    font-size: larger; 
+    color: #BE89CB; 
+    font-family: sans-serif;
+
+
+} 
+.universidade{ 
+    font-size: larger; 
+    color: #BE89CB; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.rodape{ 
+    display: flex; 
+    align-items: center;  
+    background-color: #BE89CB;
+    height: 198px;
+} 
+.lista-rodape{ 
+     color:#FFFFFF;
+     
+     background-color: #BE89CB; 
+    
+}  
+
+.meusprojetos{ 
+    display: flex; 
+    flex-direction: column; 
+    margin-top: 100px; 
+    margin-bottom: 100px;  
+    
+    
+}
+.projetos{ 
+    font-size: 24px; 
+    color: #ff4dbc; 
+    margin-bottom: 50px;
+    padding-right: 32px; 
+    
+    
+}
